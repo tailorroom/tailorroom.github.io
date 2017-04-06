@@ -509,7 +509,7 @@ table {
 	float: right;
 	text-align: right;
 	padding-top: 22px;
-	padding-right: 68px;
+	padding-right: 16%;
 	font-size: 16px;
 	font-weight: bold;
 	color: #727171;
@@ -517,13 +517,13 @@ table {
 #grid_86{
 	float: right;
 	padding-top: 12px;
-	padding-right: 32px;
+	padding-right: 6%;
 	padding-bottom: 8px;
 }
 
 #grid_82{
 	float: left;
-	padding-left: 68px;
+	padding-left: 6%;
 }
 
 #grid_88{
