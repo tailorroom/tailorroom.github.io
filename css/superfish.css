@@ -12,8 +12,6 @@
 }
 
 .navigation .sf-menu {
-	display: flex;
-	justify-content: space-around;
 	z-index: 990;
 	text-align: left;
 	position: relative;
@@ -43,6 +41,7 @@ nav {
 .sf-menu>li {
 	position: relative;
 	float: left;
+	width: calc(100%/6);
 	line-height: 22px;
 	-moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -55,7 +54,7 @@ nav {
 	color: #727171;
 	font-weight: bold;
 	display: block;
-	text-align: bottom;
+	text-align: center;
 }
 
 .sf-menu>li.sfHover>a, .sf-menu>li.current>a, .sf-menu>li>a:hover {
