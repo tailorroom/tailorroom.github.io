@@ -41,7 +41,7 @@ nav {
 .sf-menu>li {
 	position: relative;
 	float: left;
-	width: calc(100%/6);
+	width: 16.66%;
 	line-height: 22px;
 	-moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
