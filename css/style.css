@@ -1100,3 +1100,8 @@ color: #ccc;
 .gallery{
     text-align: center;
 }
+
+.socials-footer {
+    float: none;
+    padding-bottom: 25px;
+}
